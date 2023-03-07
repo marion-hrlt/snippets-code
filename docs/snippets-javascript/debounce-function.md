@@ -11,23 +11,19 @@ Voici un exemple de code pour cette fonction :
 ```js
 /**
  *
- * @param {callback} fn
- * @param {number} threshold
+ * @param {callback} callback
+ * @param {number} delay
  * @returns void
  */
-function debounce(fn, threshold) {
-	var timeout;
-	threshold = threshold || 100;
-
-	return function debounced() {
-		clearTimeout(timeout);
+function debounce(callback, delay) {
+	var timer;
+	return function () {
 		var args = arguments;
-		var _this = this;
-
-		function delayed() {
-			fn.apply(_this, args);
-		}
-		timeout = setTimeout(delayed, threshold);
+		var context = this;
+		clearTimeout(timer);
+		timer = setTimeout(function () {
+			callback.apply(context, args);
+		}, delay);
 	};
 }
 ```
