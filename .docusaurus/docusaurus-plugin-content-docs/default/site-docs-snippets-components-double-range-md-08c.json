@@ -1,0 +1,23 @@
+{
+  "unversionedId": "snippets-components/double-range",
+  "id": "snippets-components/double-range",
+  "title": "double-range",
+  "description": "",
+  "source": "@site/docs/snippets-components/double-range.md",
+  "sourceDirName": "snippets-components",
+  "slug": "/snippets-components/double-range",
+  "permalink": "/docs/snippets-components/double-range",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Components",
+    "permalink": "/docs/category/components"
+  },
+  "next": {
+    "title": "toggle-button",
+    "permalink": "/docs/snippets-components/toggle-button"
+  }
+}

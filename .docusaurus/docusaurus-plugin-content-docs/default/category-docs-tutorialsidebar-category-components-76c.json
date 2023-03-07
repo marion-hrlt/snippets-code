@@ -1,0 +1,16 @@
+{
+  "title": "Components",
+  "description": "Des composants pour être plus rapide.",
+  "slug": "/category/components",
+  "permalink": "/docs/category/components",
+  "navigation": {
+    "previous": {
+      "title": "Debounce",
+      "permalink": "/docs/snippets-javascript/debounce-function"
+    },
+    "next": {
+      "title": "double-range",
+      "permalink": "/docs/snippets-components/double-range"
+    }
+  }
+}

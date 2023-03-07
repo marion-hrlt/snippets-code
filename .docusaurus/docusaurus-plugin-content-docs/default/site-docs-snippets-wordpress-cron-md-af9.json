@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-wordpress/cron",
+  "id": "snippets-wordpress/cron",
+  "title": "Cron WordPress",
+  "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
+  "source": "@site/docs/snippets-wordpress/cron.md",
+  "sourceDirName": "snippets-wordpress",
+  "slug": "/snippets-wordpress/cron",
+  "permalink": "/docs/snippets-wordpress/cron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NavWalkers",
+    "permalink": "/docs/snippets-wordpress/nav-walker"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  }
+}

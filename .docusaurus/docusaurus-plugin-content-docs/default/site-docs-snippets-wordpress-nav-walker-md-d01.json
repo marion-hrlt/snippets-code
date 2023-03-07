@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-wordpress/nav-walker",
+  "id": "snippets-wordpress/nav-walker",
+  "title": "NavWalkers",
+  "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
+  "source": "@site/docs/snippets-wordpress/nav-walker.md",
+  "sourceDirName": "snippets-wordpress",
+  "slug": "/snippets-wordpress/nav-walker",
+  "permalink": "/docs/snippets-wordpress/nav-walker",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requête Ajax",
+    "permalink": "/docs/snippets-wordpress/ajax-wordpress"
+  },
+  "next": {
+    "title": "Cron WordPress",
+    "permalink": "/docs/snippets-wordpress/cron"
+  }
+}

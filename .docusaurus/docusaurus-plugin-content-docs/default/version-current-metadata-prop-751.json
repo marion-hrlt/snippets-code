@@ -1,0 +1,151 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "WordPress",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Fonctions de base",
+            "href": "/docs/snippets-wordpress/basic-functions",
+            "docId": "snippets-wordpress/basic-functions"
+          },
+          {
+            "type": "link",
+            "label": "Requête Ajax",
+            "href": "/docs/snippets-wordpress/ajax-wordpress",
+            "docId": "snippets-wordpress/ajax-wordpress"
+          },
+          {
+            "type": "link",
+            "label": "NavWalkers",
+            "href": "/docs/snippets-wordpress/nav-walker",
+            "docId": "snippets-wordpress/nav-walker"
+          },
+          {
+            "type": "link",
+            "label": "Cron WordPress",
+            "href": "/docs/snippets-wordpress/cron",
+            "docId": "snippets-wordpress/cron"
+          }
+        ],
+        "href": "/docs/category/wordpress"
+      },
+      {
+        "type": "category",
+        "label": "JavaScript",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Base",
+            "href": "/docs/snippets-javascript/basic-functions",
+            "docId": "snippets-javascript/basic-functions"
+          },
+          {
+            "type": "link",
+            "label": "Debounce",
+            "href": "/docs/snippets-javascript/debounce-function",
+            "docId": "snippets-javascript/debounce-function"
+          }
+        ],
+        "href": "/docs/category/javascript"
+      },
+      {
+        "type": "category",
+        "label": "Components",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "double-range",
+            "href": "/docs/snippets-components/double-range",
+            "docId": "snippets-components/double-range"
+          },
+          {
+            "type": "link",
+            "label": "toggle-button",
+            "href": "/docs/snippets-components/toggle-button",
+            "docId": "snippets-components/toggle-button"
+          }
+        ],
+        "href": "/docs/category/components"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-components/double-range": {
+      "id": "snippets-components/double-range",
+      "title": "double-range",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-components/toggle-button": {
+      "id": "snippets-components/toggle-button",
+      "title": "toggle-button",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-javascript/basic-functions": {
+      "id": "snippets-javascript/basic-functions",
+      "title": "Base",
+      "description": "Voici quelques bouts de code et fonctions de base que j'utilise souvent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-javascript/debounce-function": {
+      "id": "snippets-javascript/debounce-function",
+      "title": "Debounce",
+      "description": "La fonction debounce permet de déclencher l'appel à une fonction après un certain délai. Par exemple, on peut écouter la frappe d'un utilisateur dans un champ texte, mais ne vouloir appeler notre callback seulement si l'utilisateur marque une pause suffisamment longue.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-wordpress/ajax-wordpress": {
+      "id": "snippets-wordpress/ajax-wordpress",
+      "title": "Requête Ajax",
+      "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-wordpress/basic-functions": {
+      "id": "snippets-wordpress/basic-functions",
+      "title": "Fonctions de base",
+      "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-wordpress/cron": {
+      "id": "snippets-wordpress/cron",
+      "title": "Cron WordPress",
+      "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-wordpress/nav-walker": {
+      "id": "snippets-wordpress/nav-walker",
+      "title": "NavWalkers",
+      "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

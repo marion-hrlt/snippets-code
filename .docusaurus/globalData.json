@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-components/double-range",
+              "path": "/docs/snippets-components/double-range",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-components/toggle-button",
+              "path": "/docs/snippets-components/toggle-button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-javascript/basic-functions",
+              "path": "/docs/snippets-javascript/basic-functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-javascript/debounce-function",
+              "path": "/docs/snippets-javascript/debounce-function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-wordpress/ajax-wordpress",
+              "path": "/docs/snippets-wordpress/ajax-wordpress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-wordpress/basic-functions",
+              "path": "/docs/snippets-wordpress/basic-functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-wordpress/cron",
+              "path": "/docs/snippets-wordpress/cron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-wordpress/nav-walker",
+              "path": "/docs/snippets-wordpress/nav-walker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/wordpress",
+              "path": "/docs/category/wordpress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/javascript",
+              "path": "/docs/category/javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/components",
+              "path": "/docs/category/components",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

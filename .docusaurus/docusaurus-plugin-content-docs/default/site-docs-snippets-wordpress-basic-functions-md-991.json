@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-wordpress/basic-functions",
+  "id": "snippets-wordpress/basic-functions",
+  "title": "Fonctions de base",
+  "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
+  "source": "@site/docs/snippets-wordpress/basic-functions.md",
+  "sourceDirName": "snippets-wordpress",
+  "slug": "/snippets-wordpress/basic-functions",
+  "permalink": "/docs/snippets-wordpress/basic-functions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WordPress",
+    "permalink": "/docs/category/wordpress"
+  },
+  "next": {
+    "title": "Requête Ajax",
+    "permalink": "/docs/snippets-wordpress/ajax-wordpress"
+  }
+}

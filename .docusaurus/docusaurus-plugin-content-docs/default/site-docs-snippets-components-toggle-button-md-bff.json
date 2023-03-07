@@ -1,0 +1,19 @@
+{
+  "unversionedId": "snippets-components/toggle-button",
+  "id": "snippets-components/toggle-button",
+  "title": "toggle-button",
+  "description": "",
+  "source": "@site/docs/snippets-components/toggle-button.md",
+  "sourceDirName": "snippets-components",
+  "slug": "/snippets-components/toggle-button",
+  "permalink": "/docs/snippets-components/toggle-button",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "double-range",
+    "permalink": "/docs/snippets-components/double-range"
+  }
+}

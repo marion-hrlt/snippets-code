@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-javascript/debounce-function",
+  "id": "snippets-javascript/debounce-function",
+  "title": "Debounce",
+  "description": "La fonction debounce permet de déclencher l'appel à une fonction après un certain délai. Par exemple, on peut écouter la frappe d'un utilisateur dans un champ texte, mais ne vouloir appeler notre callback seulement si l'utilisateur marque une pause suffisamment longue.",
+  "source": "@site/docs/snippets-javascript/debounce-function.md",
+  "sourceDirName": "snippets-javascript",
+  "slug": "/snippets-javascript/debounce-function",
+  "permalink": "/docs/snippets-javascript/debounce-function",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base",
+    "permalink": "/docs/snippets-javascript/basic-functions"
+  },
+  "next": {
+    "title": "Components",
+    "permalink": "/docs/category/components"
+  }
+}

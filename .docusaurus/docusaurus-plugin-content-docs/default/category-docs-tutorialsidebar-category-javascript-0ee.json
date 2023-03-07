@@ -1,0 +1,16 @@
+{
+  "title": "JavaScript",
+  "description": "Fonctions de base que j'utilise tout le temps.",
+  "slug": "/category/javascript",
+  "permalink": "/docs/category/javascript",
+  "navigation": {
+    "previous": {
+      "title": "Cron WordPress",
+      "permalink": "/docs/snippets-wordpress/cron"
+    },
+    "next": {
+      "title": "Base",
+      "permalink": "/docs/snippets-javascript/basic-functions"
+    }
+  }
+}
