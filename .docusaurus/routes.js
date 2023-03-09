@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e76'),
+    component: ComponentCreator('/docs', '81e'),
     routes: [
       {
         path: '/docs/category/components',
@@ -158,18 +158,6 @@ export default [
       {
         path: '/docs/snippets-wordpress/basic-functions',
         component: ComponentCreator('/docs/snippets-wordpress/basic-functions', 'a51'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/snippets-wordpress/cron',
-        component: ComponentCreator('/docs/snippets-wordpress/cron', 'a29'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/snippets-wordpress/nav-walker',
-        component: ComponentCreator('/docs/snippets-wordpress/nav-walker', '7e6'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -23,7 +23,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Fonctions de base",
+            "label": "Fonctions utiles",
             "href": "/docs/snippets-wordpress/basic-functions",
             "docId": "snippets-wordpress/basic-functions"
           },
@@ -32,18 +32,6 @@
             "label": "Requête Ajax",
             "href": "/docs/snippets-wordpress/ajax-wordpress",
             "docId": "snippets-wordpress/ajax-wordpress"
-          },
-          {
-            "type": "link",
-            "label": "NavWalkers",
-            "href": "/docs/snippets-wordpress/nav-walker",
-            "docId": "snippets-wordpress/nav-walker"
-          },
-          {
-            "type": "link",
-            "label": "Cron WordPress",
-            "href": "/docs/snippets-wordpress/cron",
-            "docId": "snippets-wordpress/cron"
           }
         ],
         "href": "/docs/category/wordpress"
@@ -126,25 +114,13 @@
     "snippets-wordpress/ajax-wordpress": {
       "id": "snippets-wordpress/ajax-wordpress",
       "title": "Requête Ajax",
-      "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
+      "description": "Comment faire une requête Ajax avec WordPress et JS (Vanilla) ?",
       "sidebar": "tutorialSidebar"
     },
     "snippets-wordpress/basic-functions": {
       "id": "snippets-wordpress/basic-functions",
-      "title": "Fonctions de base",
+      "title": "Fonctions utiles",
       "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
-      "sidebar": "tutorialSidebar"
-    },
-    "snippets-wordpress/cron": {
-      "id": "snippets-wordpress/cron",
-      "title": "Cron WordPress",
-      "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
-      "sidebar": "tutorialSidebar"
-    },
-    "snippets-wordpress/nav-walker": {
-      "id": "snippets-wordpress/nav-walker",
-      "title": "NavWalkers",
-      "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
       "sidebar": "tutorialSidebar"
     }
   }

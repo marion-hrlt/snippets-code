@@ -46,16 +46,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "snippets-wordpress/cron",
-              "path": "/docs/snippets-wordpress/cron",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "snippets-wordpress/nav-walker",
-              "path": "/docs/snippets-wordpress/nav-walker",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/wordpress",
               "path": "/docs/category/wordpress",
               "sidebar": "tutorialSidebar"

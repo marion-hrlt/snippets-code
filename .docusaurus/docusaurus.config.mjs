@@ -50,7 +50,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Code"
         },
         {
           "to": "/blog",

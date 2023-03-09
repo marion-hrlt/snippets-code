@@ -1,7 +1,7 @@
 {
   "unversionedId": "snippets-wordpress/basic-functions",
   "id": "snippets-wordpress/basic-functions",
-  "title": "Fonctions de base",
+  "title": "Fonctions utiles",
   "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
   "source": "@site/docs/snippets-wordpress/basic-functions.md",
   "sourceDirName": "snippets-wordpress",

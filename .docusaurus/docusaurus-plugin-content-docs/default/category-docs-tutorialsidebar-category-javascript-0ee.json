@@ -5,8 +5,8 @@
   "permalink": "/docs/category/javascript",
   "navigation": {
     "previous": {
-      "title": "Cron WordPress",
-      "permalink": "/docs/snippets-wordpress/cron"
+      "title": "Requête Ajax",
+      "permalink": "/docs/snippets-wordpress/ajax-wordpress"
     },
     "next": {
       "title": "Base",

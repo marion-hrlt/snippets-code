@@ -137,7 +137,7 @@
               "unversionedId": "snippets-wordpress/ajax-wordpress",
               "id": "snippets-wordpress/ajax-wordpress",
               "title": "Requête Ajax",
-              "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
+              "description": "Comment faire une requête Ajax avec WordPress et JS (Vanilla) ?",
               "source": "@site/docs/snippets-wordpress/ajax-wordpress.md",
               "sourceDirName": "snippets-wordpress",
               "slug": "/snippets-wordpress/ajax-wordpress",
@@ -151,18 +151,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Fonctions de base",
+                "title": "Fonctions utiles",
                 "permalink": "/docs/snippets-wordpress/basic-functions"
               },
               "next": {
-                "title": "NavWalkers",
-                "permalink": "/docs/snippets-wordpress/nav-walker"
+                "title": "JavaScript",
+                "permalink": "/docs/category/javascript"
               }
             },
             {
               "unversionedId": "snippets-wordpress/basic-functions",
               "id": "snippets-wordpress/basic-functions",
-              "title": "Fonctions de base",
+              "title": "Fonctions utiles",
               "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
               "source": "@site/docs/snippets-wordpress/basic-functions.md",
               "sourceDirName": "snippets-wordpress",
@@ -183,58 +183,6 @@
               "next": {
                 "title": "Requête Ajax",
                 "permalink": "/docs/snippets-wordpress/ajax-wordpress"
-              }
-            },
-            {
-              "unversionedId": "snippets-wordpress/cron",
-              "id": "snippets-wordpress/cron",
-              "title": "Cron WordPress",
-              "description": "Voici quelques bouts de code et fonctions de base/utiles que j'utilise le plus souvent pour mon thème ou plugin. Elles sont à mettre dans le fichier functions.php ou dans une classe selon l'architecture du thème ou du plugin.",
-              "source": "@site/docs/snippets-wordpress/cron.md",
-              "sourceDirName": "snippets-wordpress",
-              "slug": "/snippets-wordpress/cron",
-              "permalink": "/docs/snippets-wordpress/cron",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "NavWalkers",
-                "permalink": "/docs/snippets-wordpress/nav-walker"
-              },
-              "next": {
-                "title": "JavaScript",
-                "permalink": "/docs/category/javascript"
-              }
-            },
-            {
-              "unversionedId": "snippets-wordpress/nav-walker",
-              "id": "snippets-wordpress/nav-walker",
-              "title": "NavWalkers",
-              "description": "Voici quelques bouts de code et fonctions de base que j'utilise le plus souvent.",
-              "source": "@site/docs/snippets-wordpress/nav-walker.md",
-              "sourceDirName": "snippets-wordpress",
-              "slug": "/snippets-wordpress/nav-walker",
-              "permalink": "/docs/snippets-wordpress/nav-walker",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Requête Ajax",
-                "permalink": "/docs/snippets-wordpress/ajax-wordpress"
-              },
-              "next": {
-                "title": "Cron WordPress",
-                "permalink": "/docs/snippets-wordpress/cron"
               }
             }
           ],
@@ -258,14 +206,6 @@
                   {
                     "type": "doc",
                     "id": "snippets-wordpress/ajax-wordpress"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "snippets-wordpress/nav-walker"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "snippets-wordpress/cron"
                   }
                 ],
                 "link": {
