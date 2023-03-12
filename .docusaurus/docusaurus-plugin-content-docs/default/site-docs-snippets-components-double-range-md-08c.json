@@ -1,8 +1,8 @@
 {
   "unversionedId": "snippets-components/double-range",
   "id": "snippets-components/double-range",
-  "title": "double-range",
-  "description": "",
+  "title": "Double Range Slider",
+  "description": "HTML",
   "source": "@site/docs/snippets-components/double-range.md",
   "sourceDirName": "snippets-components",
   "slug": "/snippets-components/double-range",
@@ -10,14 +10,13 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Components",
-    "permalink": "/docs/category/components"
-  },
-  "next": {
-    "title": "toggle-button",
+    "title": "Toggle Button",
     "permalink": "/docs/snippets-components/toggle-button"
   }
 }

@@ -65,15 +65,15 @@
         "items": [
           {
             "type": "link",
-            "label": "double-range",
-            "href": "/docs/snippets-components/double-range",
-            "docId": "snippets-components/double-range"
+            "label": "Toggle Button",
+            "href": "/docs/snippets-components/toggle-button",
+            "docId": "snippets-components/toggle-button"
           },
           {
             "type": "link",
-            "label": "toggle-button",
-            "href": "/docs/snippets-components/toggle-button",
-            "docId": "snippets-components/toggle-button"
+            "label": "Double Range Slider",
+            "href": "/docs/snippets-components/double-range",
+            "docId": "snippets-components/double-range"
           }
         ],
         "href": "/docs/category/components"
@@ -84,19 +84,19 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "snippets-components/double-range": {
       "id": "snippets-components/double-range",
-      "title": "double-range",
-      "description": "",
+      "title": "Double Range Slider",
+      "description": "HTML",
       "sidebar": "tutorialSidebar"
     },
     "snippets-components/toggle-button": {
       "id": "snippets-components/toggle-button",
-      "title": "toggle-button",
-      "description": "",
+      "title": "Toggle Button",
+      "description": "Un exemple de bouton toggle",
       "sidebar": "tutorialSidebar"
     },
     "snippets-javascript/basic-functions": {

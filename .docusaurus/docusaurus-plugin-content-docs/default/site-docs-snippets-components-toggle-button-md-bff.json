@@ -1,8 +1,8 @@
 {
   "unversionedId": "snippets-components/toggle-button",
   "id": "snippets-components/toggle-button",
-  "title": "toggle-button",
-  "description": "",
+  "title": "Toggle Button",
+  "description": "Un exemple de bouton toggle",
   "source": "@site/docs/snippets-components/toggle-button.md",
   "sourceDirName": "snippets-components",
   "slug": "/snippets-components/toggle-button",
@@ -10,10 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "double-range",
+    "title": "Components",
+    "permalink": "/docs/category/components"
+  },
+  "next": {
+    "title": "Double Range Slider",
     "permalink": "/docs/snippets-components/double-range"
   }
 }
