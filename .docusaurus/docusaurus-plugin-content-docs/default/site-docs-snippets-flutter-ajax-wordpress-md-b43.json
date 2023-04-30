@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-flutter/ajax-wordpress",
+  "id": "snippets-flutter/ajax-wordpress",
+  "title": "Base",
+  "description": "",
+  "source": "@site/docs/snippets-flutter/ajax-wordpress.md",
+  "sourceDirName": "snippets-flutter",
+  "slug": "/snippets-flutter/ajax-wordpress",
+  "permalink": "/docs/snippets-flutter/ajax-wordpress",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flutter",
+    "permalink": "/docs/category/flutter"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  }
+}

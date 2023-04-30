@@ -2,15 +2,15 @@
   "title": "WordPress",
   "description": "Fonctions de base que j'utilise tout le temps.",
   "slug": "/category/wordpress",
-  "permalink": "/docs/category/wordpress",
+  "permalink": "/docs/intro/docs/category/wordpress",
   "navigation": {
     "previous": {
-      "title": "Toggle Button",
-      "permalink": "/docs/snippets-components/toggle-button"
+      "title": "Introduction",
+      "permalink": "/docs/intro/docs/intro"
     },
     "next": {
       "title": "Fonctions utiles",
-      "permalink": "/docs/snippets-wordpress/basic-functions"
+      "permalink": "/docs/intro/docs/snippets-wordpress/basic-functions"
     }
   }
 }

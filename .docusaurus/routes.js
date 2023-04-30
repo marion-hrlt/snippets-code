@@ -93,17 +93,18 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '133'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '81e'),
+    component: ComponentCreator('/docs', '130'),
     routes: [
       {
         path: '/docs/category/components',
         component: ComponentCreator('/docs/category/components', '577'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/flutter',
+        component: ComponentCreator('/docs/category/flutter', '862'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -126,14 +127,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/snippets-components/double-range',
-        component: ComponentCreator('/docs/snippets-components/double-range', '297'),
+        path: '/docs/snippets-components/toggle-button',
+        component: ComponentCreator('/docs/snippets-components/toggle-button', '0a6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/snippets-components/toggle-button',
-        component: ComponentCreator('/docs/snippets-components/toggle-button', '0a6'),
+        path: '/docs/snippets-flutter/base',
+        component: ComponentCreator('/docs/snippets-flutter/base', '9c6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/snippets-flutter/widgets',
+        component: ComponentCreator('/docs/snippets-flutter/widgets', 'bf4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

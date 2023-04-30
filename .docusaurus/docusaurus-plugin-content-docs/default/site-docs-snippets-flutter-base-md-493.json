@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-flutter/base",
+  "id": "snippets-flutter/base",
+  "title": "Base",
+  "description": "Le code minimal permettant de lancer une application Flutter utilisant Material :",
+  "source": "@site/docs/snippets-flutter/base.md",
+  "sourceDirName": "snippets-flutter",
+  "slug": "/snippets-flutter/base",
+  "permalink": "/docs/snippets-flutter/base",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flutter",
+    "permalink": "/docs/category/flutter"
+  },
+  "next": {
+    "title": "Widgets",
+    "permalink": "/docs/snippets-flutter/widgets"
+  }
+}

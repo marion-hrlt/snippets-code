@@ -1,12 +1,12 @@
 {
-  "unversionedId": "snippets-wordpress/ajax-wordpress",
-  "id": "snippets-wordpress/ajax-wordpress",
+  "unversionedId": "snippets-wordpress/ajax-wordpress copy",
+  "id": "snippets-wordpress/ajax-wordpress copy",
   "title": "Requête Ajax",
   "description": "Comment faire une requête Ajax avec WordPress et JS (Vanilla) ?",
-  "source": "@site/docs/snippets-wordpress/ajax-wordpress.md",
+  "source": "@site/docs/snippets-wordpress/ajax-wordpress copy.md",
   "sourceDirName": "snippets-wordpress",
-  "slug": "/snippets-wordpress/ajax-wordpress",
-  "permalink": "/docs/snippets-wordpress/ajax-wordpress",
+  "slug": "/snippets-wordpress/ajax-wordpress copy",
+  "permalink": "/docs/snippets-wordpress/ajax-wordpress copy",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,5 +18,9 @@
   "previous": {
     "title": "Fonctions utiles",
     "permalink": "/docs/snippets-wordpress/basic-functions"
+  },
+  "next": {
+    "title": "Requête Ajax",
+    "permalink": "/docs/snippets-wordpress/ajax-wordpress"
   }
 }

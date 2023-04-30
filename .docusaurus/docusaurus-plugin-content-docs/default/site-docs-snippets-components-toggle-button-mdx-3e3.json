@@ -3,7 +3,7 @@
   "id": "snippets-components/toggle-button",
   "title": "Toggle Button",
   "description": "Un exemple de bouton toggle",
-  "source": "@site/docs/snippets-components/toggle-button.md",
+  "source": "@site/docs/snippets-components/toggle-button.mdx",
   "sourceDirName": "snippets-components",
   "slug": "/snippets-components/toggle-button",
   "permalink": "/docs/snippets-components/toggle-button",

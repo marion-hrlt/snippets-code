@@ -35,30 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "WordPress",
-                "permalink": "/docs/category/wordpress"
-              }
-            },
-            {
-              "unversionedId": "snippets-components/double-range",
-              "id": "snippets-components/double-range",
-              "title": "Double Range Slider",
-              "description": "HTML",
-              "source": "@site/docs/snippets-components/double-range.md",
-              "sourceDirName": "snippets-components",
-              "slug": "/snippets-components/double-range",
-              "permalink": "/docs/snippets-components/double-range",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Toggle Button",
-                "permalink": "/docs/snippets-components/toggle-button"
+                "title": "Flutter",
+                "permalink": "/docs/category/flutter"
               }
             },
             {
@@ -83,8 +61,60 @@
                 "permalink": "/docs/category/components"
               },
               "next": {
-                "title": "Double Range Slider",
-                "permalink": "/docs/snippets-components/double-range"
+                "title": "WordPress",
+                "permalink": "/docs/category/wordpress"
+              }
+            },
+            {
+              "unversionedId": "snippets-flutter/base",
+              "id": "snippets-flutter/base",
+              "title": "Base",
+              "description": "Le code minimal permettant de lancer une application Flutter utilisant Material :",
+              "source": "@site/docs/snippets-flutter/base.md",
+              "sourceDirName": "snippets-flutter",
+              "slug": "/snippets-flutter/base",
+              "permalink": "/docs/snippets-flutter/base",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flutter",
+                "permalink": "/docs/category/flutter"
+              },
+              "next": {
+                "title": "Widgets",
+                "permalink": "/docs/snippets-flutter/widgets"
+              }
+            },
+            {
+              "unversionedId": "snippets-flutter/widgets",
+              "id": "snippets-flutter/widgets",
+              "title": "Widgets",
+              "description": "Flutter utilise des widgets. Ces widgets sont configurables, ils peuvent être natifs (créé par Flutter) mais nous pouvons aussi créer nos propres widgets.",
+              "source": "@site/docs/snippets-flutter/widgets.md",
+              "sourceDirName": "snippets-flutter",
+              "slug": "/snippets-flutter/widgets",
+              "permalink": "/docs/snippets-flutter/widgets",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Base",
+                "permalink": "/docs/snippets-flutter/base"
+              },
+              "next": {
+                "title": "JavaScript",
+                "permalink": "/docs/category/javascript"
               }
             },
             {
@@ -159,10 +189,6 @@
               "previous": {
                 "title": "Fonctions utiles",
                 "permalink": "/docs/snippets-wordpress/basic-functions"
-              },
-              "next": {
-                "title": "JavaScript",
-                "permalink": "/docs/category/javascript"
               }
             },
             {
@@ -201,24 +227,24 @@
               },
               {
                 "type": "category",
-                "label": "WordPress",
+                "label": "Flutter",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "snippets-wordpress/basic-functions"
+                    "id": "snippets-flutter/base"
                   },
                   {
                     "type": "doc",
-                    "id": "snippets-wordpress/ajax-wordpress"
+                    "id": "snippets-flutter/widgets"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Fonctions de base que j'utilise tout le temps.",
-                  "slug": "/category/wordpress",
-                  "permalink": "/docs/category/wordpress"
+                  "description": "Notes de formation.",
+                  "slug": "/category/flutter",
+                  "permalink": "/docs/category/flutter"
                 }
               },
               {
@@ -252,10 +278,6 @@
                   {
                     "type": "doc",
                     "id": "snippets-components/toggle-button"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "snippets-components/double-range"
                   }
                 ],
                 "link": {
@@ -263,6 +285,28 @@
                   "description": "Des composants pour être plus rapide.",
                   "slug": "/category/components",
                   "permalink": "/docs/category/components"
+                }
+              },
+              {
+                "type": "category",
+                "label": "WordPress",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "snippets-wordpress/basic-functions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "snippets-wordpress/ajax-wordpress"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Fonctions de base que j'utilise tout le temps.",
+                  "slug": "/category/wordpress",
+                  "permalink": "/docs/category/wordpress"
                 }
               }
             ]
@@ -616,16 +660,6 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        }
       }
     ]
   },

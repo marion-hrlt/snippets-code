@@ -1,0 +1,16 @@
+{
+  "title": "Components",
+  "description": "Des composants pour être plus rapide.",
+  "slug": "/category/components",
+  "permalink": "/docs/intro/docs/category/components",
+  "navigation": {
+    "previous": {
+      "title": "Debounce",
+      "permalink": "/docs/intro/docs/snippets-javascript/debounce-function"
+    },
+    "next": {
+      "title": "Toggle Button",
+      "permalink": "/docs/intro/docs/snippets-components/toggle-button"
+    }
+  }
+}

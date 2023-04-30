@@ -1,0 +1,16 @@
+{
+  "title": "Flutter",
+  "description": "Notes de formation.",
+  "slug": "/category/flutter",
+  "permalink": "/docs/category/flutter",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Base",
+      "permalink": "/docs/snippets-flutter/base"
+    }
+  }
+}

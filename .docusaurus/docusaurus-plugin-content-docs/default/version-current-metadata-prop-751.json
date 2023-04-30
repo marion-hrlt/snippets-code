@@ -17,24 +17,24 @@
       },
       {
         "type": "category",
-        "label": "WordPress",
+        "label": "Flutter",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Fonctions utiles",
-            "href": "/docs/snippets-wordpress/basic-functions",
-            "docId": "snippets-wordpress/basic-functions"
+            "label": "Base",
+            "href": "/docs/snippets-flutter/base",
+            "docId": "snippets-flutter/base"
           },
           {
             "type": "link",
-            "label": "Requête Ajax",
-            "href": "/docs/snippets-wordpress/ajax-wordpress",
-            "docId": "snippets-wordpress/ajax-wordpress"
+            "label": "Widgets",
+            "href": "/docs/snippets-flutter/widgets",
+            "docId": "snippets-flutter/widgets"
           }
         ],
-        "href": "/docs/category/wordpress"
+        "href": "/docs/category/flutter"
       },
       {
         "type": "category",
@@ -68,15 +68,30 @@
             "label": "Toggle Button",
             "href": "/docs/snippets-components/toggle-button",
             "docId": "snippets-components/toggle-button"
-          },
-          {
-            "type": "link",
-            "label": "Double Range Slider",
-            "href": "/docs/snippets-components/double-range",
-            "docId": "snippets-components/double-range"
           }
         ],
         "href": "/docs/category/components"
+      },
+      {
+        "type": "category",
+        "label": "WordPress",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Fonctions utiles",
+            "href": "/docs/snippets-wordpress/basic-functions",
+            "docId": "snippets-wordpress/basic-functions"
+          },
+          {
+            "type": "link",
+            "label": "Requête Ajax",
+            "href": "/docs/snippets-wordpress/ajax-wordpress",
+            "docId": "snippets-wordpress/ajax-wordpress"
+          }
+        ],
+        "href": "/docs/category/wordpress"
       }
     ]
   },
@@ -87,16 +102,22 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "snippets-components/double-range": {
-      "id": "snippets-components/double-range",
-      "title": "Double Range Slider",
-      "description": "HTML",
-      "sidebar": "tutorialSidebar"
-    },
     "snippets-components/toggle-button": {
       "id": "snippets-components/toggle-button",
       "title": "Toggle Button",
       "description": "Un exemple de bouton toggle",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-flutter/base": {
+      "id": "snippets-flutter/base",
+      "title": "Base",
+      "description": "Le code minimal permettant de lancer une application Flutter utilisant Material :",
+      "sidebar": "tutorialSidebar"
+    },
+    "snippets-flutter/widgets": {
+      "id": "snippets-flutter/widgets",
+      "title": "Widgets",
+      "description": "Flutter utilise des widgets. Ces widgets sont configurables, ils peuvent être natifs (créé par Flutter) mais nous pouvons aussi créer nos propres widgets.",
       "sidebar": "tutorialSidebar"
     },
     "snippets-javascript/basic-functions": {

@@ -77,3 +77,17 @@ toggleBtn.addEventListener("change", () => {
 	}
 });
 ```
+
+## Résultat
+
+<iframe
+  height="300"
+  style={{ width: '100%' }}
+  scrolling="no"
+  title="Toggle button"
+  src="https://codepen.io/marion-hrlt/embed/preview/MWPvrXm?default-tab=result"
+  frameborder="no"
+  loading="lazy"
+  allowtransparency="true"
+  allowfullscreen="true"
+></iframe>

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "snippets-flutter/widgets",
+  "id": "snippets-flutter/widgets",
+  "title": "Widgets",
+  "description": "Flutter utilise des widgets. Ces widgets sont configurables, ils peuvent être natifs (créé par Flutter) mais nous pouvons aussi créer nos propres widgets.",
+  "source": "@site/docs/snippets-flutter/widgets.md",
+  "sourceDirName": "snippets-flutter",
+  "slug": "/snippets-flutter/widgets",
+  "permalink": "/docs/snippets-flutter/widgets",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base",
+    "permalink": "/docs/snippets-flutter/base"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  }
+}

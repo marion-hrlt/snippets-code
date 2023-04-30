@@ -1,0 +1,16 @@
+{
+  "title": "JavaScript",
+  "description": "Fonctions de base que j'utilise tout le temps.",
+  "slug": "/category/javascript",
+  "permalink": "/docs/intro/docs/category/javascript",
+  "navigation": {
+    "previous": {
+      "title": "Requête Ajax",
+      "permalink": "/docs/intro/docs/snippets-wordpress/ajax-wordpress"
+    },
+    "next": {
+      "title": "Base",
+      "permalink": "/docs/intro/docs/snippets-javascript/basic-functions"
+    }
+  }
+}

@@ -16,13 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "snippets-components/double-range",
-              "path": "/docs/snippets-components/double-range",
+              "id": "snippets-components/toggle-button",
+              "path": "/docs/snippets-components/toggle-button",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "snippets-components/toggle-button",
-              "path": "/docs/snippets-components/toggle-button",
+              "id": "snippets-flutter/base",
+              "path": "/docs/snippets-flutter/base",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "snippets-flutter/widgets",
+              "path": "/docs/snippets-flutter/widgets",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,8 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/wordpress",
-              "path": "/docs/category/wordpress",
+              "id": "/category/flutter",
+              "path": "/docs/category/flutter",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -58,6 +63,11 @@
             {
               "id": "/category/components",
               "path": "/docs/category/components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/wordpress",
+              "path": "/docs/category/wordpress",
               "sidebar": "tutorialSidebar"
             }
           ],

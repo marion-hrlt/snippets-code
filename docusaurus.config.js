@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Snippets",
-	tagline: "Foxes are cool",
+	tagline: "",
 	favicon: "img/favicon.ico",
 
 	// Set the production url of your site here
@@ -55,7 +55,6 @@ const config = {
 			}),
 		],
 	],
-
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
@@ -65,7 +64,7 @@ const config = {
 				title: "Snippets",
 				logo: {
 					alt: "Snippets Logo",
-					src: "img/logo.svg",
+					src: "img/_logo.svg",
 				},
 				items: [
 					{
@@ -83,7 +82,7 @@ const config = {
 				],
 			},
 			footer: {
-				style: "dark",
+				style: "light",
 				links: [
 					// {
 					// 	title: "Docs",
@@ -95,7 +94,7 @@ const config = {
 					// 	],
 					// },
 				],
-				copyright: `${new Date().getFullYear()}. Make with love ♥.`,
+				copyright: `Make with love ♥`,
 			},
 			prism: {
 				theme: lightCodeTheme,

@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Snippets",
-  "tagline": "Foxes are cool",
+  "tagline": "",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
@@ -43,7 +43,7 @@ export default {
       "title": "Snippets",
       "logo": {
         "alt": "Snippets Logo",
-        "src": "img/logo.svg"
+        "src": "img/_logo.svg"
       },
       "items": [
         {
@@ -61,9 +61,9 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [],
-      "copyright": "2023. Make with love ♥."
+      "copyright": "Make with love ♥"
     },
     "prism": {
       "theme": {
