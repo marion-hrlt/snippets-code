@@ -99,7 +99,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "",
+      "description": "Hello ! 👋",
       "sidebar": "tutorialSidebar"
     },
     "snippets-components/toggle-button": {

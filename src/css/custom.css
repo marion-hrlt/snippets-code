@@ -28,3 +28,14 @@
 	--ifm-color-primary-lightest: #83c0f8;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+::-moz-selection {
+	/* Code for Firefox */
+	color: white;
+	background: #3096f3;
+}
+
+::selection {
+	color: white;
+	background: #3096f3;
+}

@@ -3,7 +3,7 @@
   "id": "intro",
   "title": "Introduction",
   "description": "Hello ! 👋",
-  "source": "@site/docs/intro.md",
+  "source": "@site/docs/intro.mdx",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
