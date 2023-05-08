@@ -323,3 +323,43 @@ Card(
     child: Text('Mon texte ici'),
 )
 ```
+
+## Ink() et InkWell()
+
+Le widget Ink permet de créer un widget Ink. Ce widget est très utile pour créer des interfaces. Il permet de créer un widget qui réagit au toucher. Le widget InkWell permet de créer un widget InkWell. Ce widget est très utile pour créer des interfaces. Il permet de créer un widget qui réagit au toucher.
+
+```js
+Ink(
+    // Enfant
+    child: InkWell(
+        // Enfant
+        child: Text('Mon texte ici'),
+        // Fonction
+        onTap: () {},
+    ),
+)
+```
+
+### Exemple Ink avec Image
+
+```js
+Card(
+    child: Container(
+        height: 150,
+        child: Stack(
+            fit: StackFit.expand,
+            children: <Widget>[
+                Ink.image(
+                    fit: BoxFit.cover,
+                    image: AssetImage('chemin/de/image.jpg'),
+                    child: InkWell(
+                        onTap: () {
+                            print('tap');
+                        },
+                    ), // InkWell
+                ), // Ink.image
+            ], // <Widget>[]
+        ), // Stack
+    ), // Container
+); // Card
+```
